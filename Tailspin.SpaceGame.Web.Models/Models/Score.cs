@@ -2,6 +2,7 @@
 
 namespace TailSpin.SpaceGame.Web.Models
 {
+
     public class Score : Model
     {
         // The ID of the player profile associated with this score.
